@@ -4,6 +4,66 @@
   
     
     <entry>
+      <title>大二上java学习</title>
+      <link href="2020/10/03/%E5%A4%A7%E4%BA%8C%E4%B8%8Ajava%E5%AD%A6%E4%B9%A0/"/>
+      <url>2020/10/03/%E5%A4%A7%E4%BA%8C%E4%B8%8Ajava%E5%AD%A6%E4%B9%A0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="封装的定义"><a href="#封装的定义" class="headerlink" title="封装的定义"></a>封装的定义</h1><p> • 封装是把过程和数据包围起来，对数据的访问只能通过已定义的接口。面向对象计算始于以下基本概念：现实世界可以被描绘成一系列完全自治的、封装的对象，这些对象通过一个受保护的接口访问其他对象。  </p><p> • 对于封装而言，一个对象所封装的是自己的属性和方法，所以它不需要依赖其他对象就可以完成自己的操作。封装的优点如下：  </p><p> • 良好的封装能够减少耦合。  </p><p> • 类内部的结构可以自由修改。  </p><p> • 可以对成员变量进行更精确的控制。  </p><p> • 隐藏信息，实现细节。</p><h2 id="代码例子"><a href="#代码例子" class="headerlink" title="代码例子"></a>代码例子</h2><pre><code class="java">class Person &#123;   private String name;   private int age;   private float weight;   public String getName() &#123;       return name;   &#125;   public void setName(String name) &#123;       this.name = name;   &#125;   public int getAge() &#123;       return age;   &#125;   public void setAge(int age) &#123;       if (age &lt;= 0 || age &gt; 150) &#123;           System.out.println(&quot;年龄不能为负值，设为默认18 岁&quot;);           this.age = 18;       &#125; else &#123;           this.age = age;       &#125;   &#125;   public float getWeight() &#123;       return weight;   &#125;   public void setWeight(float weight) &#123;       if (weight &lt;= 0 || weight &gt; 1000) &#123;           System.out.println(&quot;体重不能为负值，设为默认50 公斤&quot;);           this.weight = 50;       &#125; else &#123;           this.weight = weight;       &#125;   &#125;&#125;public class Test &#123;   public static void main(String[] args) &#123;       Person p1 = new Person();       p1.setName(&quot;张三&quot;); // 设置姓名       p1.setAge(-5); // 设置年龄       p1.setWeight(0); // 设置体重       System.out.println(p1.getName()); // 获得姓名       System.out.println(p1.getAge()); // 获得年龄       System.out.println(p1.getWeight()); // 获得体重   &#125;&#125;  </code></pre><h3 id="代码块解释"><a href="#代码块解释" class="headerlink" title="代码块解释"></a>代码块解释</h3><p> 在本例中，将3 个属性<code>name</code>、<code>age</code>、<code>weight</code> 设置为<code>private</code>，这样其他类就不能访问这3 个属性。然后又为每个属性写了两个方法<code>getXxx()</code>和<code>setXxx()</code>，将这两个方法设置为<code>public</code>，其他类可以通过<code>setXxx()</code>方法来设置对应的属性，通过<code>getXxx()</code>来获得对应的属性。将<code>setXxx()</code>方法简称为<code>set </code>方法，将<code>getXxx()</code>方法简称为<code>get </code>方法。  </p><blockquote><p>注意<code>this.weight = 50;</code>与<code>this.weight = weight;</code>  </p></blockquote><p> 属性可以在<code>set</code>方法中更改判定方法</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> java学习笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> java </tag>
+            
+            <tag> 封装 </tag>
+            
+            <tag> set() </tag>
+            
+            <tag> get() </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>大二上java学习</title>
+      <link href="2020/10/03/%E6%A8%A1%E6%9D%BF/"/>
+      <url>2020/10/03/%E6%A8%A1%E6%9D%BF/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 计划 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 英语 </tag>
+            
+            <tag> 编程 </tag>
+            
+            <tag> 化学 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>我的第一篇blog</title>
       <link href="2020/09/27/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87blog/"/>
       <url>2020/09/27/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87blog/</url>
