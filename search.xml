@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>图床搭建方法</title>
+      <link href="2025/03/03/%E5%9B%BE%E5%BA%8A%E6%90%AD%E5%BB%BA%E6%96%B9%E6%B3%95/"/>
+      <url>2025/03/03/%E5%9B%BE%E5%BA%8A%E6%90%AD%E5%BB%BA%E6%96%B9%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<h1 id="图床搭建"><a class="markdownIt-Anchor" href="#图床搭建"></a> 图床搭建</h1><h2 id="前言"><a class="markdownIt-Anchor" href="#前言"></a> 前言</h2><p>目的是把图片全部打包到服务器，然后直接用链接引用。</p><hr /><h2 id="步骤"><a class="markdownIt-Anchor" href="#步骤"></a> 步骤</h2><ol><li>下载<mark>PicGo</mark>. 链接：<a href="https://github.com/Molunerfinn/PicGo/releases">https://github.com/Molunerfinn/PicGo/releases</a></li></ol><p><img src= "/img/loading.gif" data-lazy-src="https://gcore.jsdelivr.net/gh/liujing3699/my-image-repo-@main/img/8348651da2b9e2a506d45a771e05a69.png" alt="" /><br />2. github新建仓库<br /><img src= "/img/loading.gif" data-lazy-src="https://gcore.jsdelivr.net/gh/liujing3699/my-image-repo-@main/img/2754ef4200a3ae5df63b1e5cdb0b75b.png" alt="" /></p><ol start="3"><li>仓库记得<mark>public</mark><br /><img src= "/img/loading.gif" data-lazy-src="https://gcore.jsdelivr.net/gh/liujing3699/my-image-repo-@main/img/fea92bc6f1626ece9b70481648e0a70.png" alt="" /></li><li>配置token<br />右上角<code>头像</code>&gt;<code>settings</code>&gt;<code>Developer settiings</code>&gt;<code>Personal access tokens</code>&gt;<code>tokens(classic)</code>&gt;<code>Generate new token</code>&gt;Note:仓库名称(随意)&gt;勾选<mark>repo</mark>&gt;Generate token:生成Token(<mark>记得复制，只显示一次</mark>)</li></ol><p><img src= "/img/loading.gif" data-lazy-src="https://gcore.jsdelivr.net/gh/liujing3699/my-image-repo-@main/img/a8a702eb659eae2e01cda6ceaa6b304.png" alt="" /><br />5. 配置PicGo<br />我的自定义域名<a href="">https://gcore.jsdelivr.net/gh/liujing3699/my-image-repo-@main</a><br /><img src= "/img/loading.gif" data-lazy-src="https://gcore.jsdelivr.net/gh/liujing3699/my-image-repo-@main/img/b890832f0b4cb57752953d648b6ad96.png" alt="" /></p><hr /><h2 id="总结"><a class="markdownIt-Anchor" href="#总结"></a> 总结</h2><p>自定义域名别在最后多加了个<code>/</code>。挺简单的</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo部署 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo部署 </tag>
+            
+            <tag> 图床搭建 </tag>
+            
+            <tag> PicGo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>部署失败的原因</title>
       <link href="2025/03/01/%E9%83%A8%E7%BD%B2%E5%A4%B1%E8%B4%A5%E7%9A%84%E5%8E%9F%E5%9B%A0/"/>
       <url>2025/03/01/%E9%83%A8%E7%BD%B2%E5%A4%B1%E8%B4%A5%E7%9A%84%E5%8E%9F%E5%9B%A0/</url>
