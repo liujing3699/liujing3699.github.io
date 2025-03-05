@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>WPS接入zotero方法</title>
+      <link href="2025/03/05/WPS%E6%8E%A5%E5%85%A5zotero%E6%96%B9%E6%B3%95/"/>
+      <url>2025/03/05/WPS%E6%8E%A5%E5%85%A5zotero%E6%96%B9%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<h1 id="前言"><a class="markdownIt-Anchor" href="#前言"></a> 前言</h1><blockquote><p>这篇文章的目的是将zotero引入到wps</p></blockquote><hr /><h1 id="方法"><a class="markdownIt-Anchor" href="#方法"></a> 方法</h1><h2 id="vba下载"><a class="markdownIt-Anchor" href="#vba下载"></a> vba下载</h2><p>首先下载vba，可以参考这个视频 <a href="https://b23.tv/lNPI865%E3%80%82%E4%B8%8B%E8%BD%BD%E5%AE%8C%E6%AF%95%E5%90%8E%E5%AE%89%E8%A3%85%E5%8D%B3%E5%8F%AF">https://b23.tv/lNPI865。下载完毕后安装即可</a></p><h2 id="配置zoterodotm文件到wps中"><a class="markdownIt-Anchor" href="#配置zoterodotm文件到wps中"></a> 配置Zotero.dotm文件到wps中</h2><p>Zotero.dotm文件在这里</p><blockquote><p>D:\ZT\extensions\zoteroWinWordIntegration@zotero.org\install<br />复制到这个位置<br />C:\Users\admire刘\AppData\Roaming\kingsoft\wps\startup<br />重启wps即可</p></blockquote><hr /><h1 id="总结"><a class="markdownIt-Anchor" href="#总结"></a> 总结</h1><ul><li>可能出现两个zotero插件位置，无所谓。</li><li>插入后图片可能会消失，refresh功能点击一下即可。</li></ul><p><mark>我自己的wps下载好就已经有zotero功能了，给zzm写的</mark></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件配置 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> wps </tag>
+            
+            <tag> zotero </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>图床搭建方法</title>
       <link href="2025/03/03/%E5%9B%BE%E5%BA%8A%E6%90%AD%E5%BB%BA%E6%96%B9%E6%B3%95/"/>
       <url>2025/03/03/%E5%9B%BE%E5%BA%8A%E6%90%AD%E5%BB%BA%E6%96%B9%E6%B3%95/</url>
