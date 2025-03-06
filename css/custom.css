@@ -48,6 +48,6 @@
 }
 /* 鼠标悬浮状态 */
 [data-theme="dark"] .magnet_link_context:hover {
-  background: #3ecdf1;
+  background: #030303;
   color: #f2f2f2;
 }
