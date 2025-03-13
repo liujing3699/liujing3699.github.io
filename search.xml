@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>UV-9000s紫外可见分光光度计维修</title>
+      <link href="2025/03/13/UV-9000s%E7%B4%AB%E5%A4%96%E5%8F%AF%E8%A7%81%E5%88%86%E5%85%89%E5%85%89%E5%BA%A6%E8%AE%A1%E7%BB%B4%E4%BF%AE/"/>
+      <url>2025/03/13/UV-9000s%E7%B4%AB%E5%A4%96%E5%8F%AF%E8%A7%81%E5%88%86%E5%85%89%E5%85%89%E5%BA%A6%E8%AE%A1%E7%BB%B4%E4%BF%AE/</url>
+      
+        <content type="html"><![CDATA[<h1 id="前言"><a class="markdownIt-Anchor" href="#前言"></a> 前言</h1><p>220nm的时候吸光度跳动，发现应该是氘灯坏了</p><hr /><h1 id="具体内容"><a class="markdownIt-Anchor" href="#具体内容"></a> 具体内容</h1><h2 id="灯光鉴定方法"><a class="markdownIt-Anchor" href="#灯光鉴定方法"></a> 灯光鉴定方法</h2><p>把里面所有的样品拿出来，点返回键回到主界面 然后点7系统设置，然后再进入第二个界面点1波长定位，然后点0系统基线。仪器会做一个自检校正，大概需要五分钟左右，最后波长会停留在546nm，右上角D2和W灯框不闪烁，仪器正常。</p><hr /><h1 id="结论"><a class="markdownIt-Anchor" href="#结论"></a> 结论</h1><p>D2闪烁，氘灯能量不足，换灯。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 仪器维修 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 仪器维修 </tag>
+            
+            <tag> 紫外可见分光光度计 </tag>
+            
+            <tag> 氘灯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>爱心</title>
       <link href="2025/03/10/%E7%88%B1%E5%BF%83/"/>
       <url>2025/03/10/%E7%88%B1%E5%BF%83/</url>
