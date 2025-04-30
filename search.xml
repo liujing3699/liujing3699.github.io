@@ -4,6 +4,60 @@
   
     
     <entry>
+      <title>Excel使用心得</title>
+      <link href="2025/05/01/Excel%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97/"/>
+      <url>2025/05/01/Excel%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97/</url>
+      
+        <content type="html"><![CDATA[<p><strong>1.</strong> excel格内换行使用 <mark>alt + enter</mark></p><p><strong>2.</strong> excel填充12345…的操作方法：<br />在第一个单元格中输入公式   <mark>【  =ROW() 】</mark> 【这个公式会返回当前单元格的行号】，随后<mark>shift + 点击最后一格选择出范围</mark>，最后<mark>Ctrl + d</mark>【填充到列】</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 写作技巧 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> excel </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>财报知识</title>
+      <link href="2025/05/01/%E8%B4%A2%E6%8A%A5%E7%9F%A5%E8%AF%86/"/>
+      <url>2025/05/01/%E8%B4%A2%E6%8A%A5%E7%9F%A5%E8%AF%86/</url>
+      
+        <content type="html"><![CDATA[<h2 id="前言"><a class="markdownIt-Anchor" href="#前言"></a> 前言</h2><blockquote><p>利用研读财报的方法，获取财报深层知识，判断市场以及未来发展前景。</p></blockquote><hr /><p><strong>杠杆率</strong> ＝（净资产+总负债）÷净资产</p><hr /><p><strong>财务费用</strong> ＝公司交的利息。（如果变成了负数，第一种可能是企业收到的利息比企业给出去的利息高；第二种可能是企业做外国生意，持有美元，此时人民币贬值，钱就变多了）</p><hr /><p><strong>资本支出</strong>：判断企业是不是在扩产。</p><hr />]]></content>
+      
+      
+      <categories>
+          
+          <category> 金融 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 财报 </tag>
+            
+            <tag> 金融 </tag>
+            
+            <tag> 琐碎知识 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>贫贱夫妻百事哀？</title>
       <link href="2025/04/09/%E8%B4%AB%E8%B4%B1%E5%A4%AB%E5%A6%BB%E7%99%BE%E4%BA%8B%E5%93%80/"/>
       <url>2025/04/09/%E8%B4%AB%E8%B4%B1%E5%A4%AB%E5%A6%BB%E7%99%BE%E4%BA%8B%E5%93%80/</url>
@@ -328,7 +382,7 @@
       <link href="2025/02/27/%E5%AE%9E%E9%AA%8C%E5%88%86%E6%9E%90/"/>
       <url>2025/02/27/%E5%AE%9E%E9%AA%8C%E5%88%86%E6%9E%90/</url>
       
-        <content type="html"><![CDATA[<ul><li>生物电极的 NB 去除效率是开路的 1.77-1.83 倍，突出了<code>电刺激对微生物 NB 去除的显着增强</code></li></ul><hr /><ul><li>AC 刺激增强了生物膜的形成和双向电催化活性:<code>从而提高了生物量和电子的利用效率</code></li></ul><hr /><ul><li>电流越大，促进电活性生物膜的生长<details><summary>例子</summary><p>通常，在正弦波交流生物电极中观察到的较高电流可以促进电活性生物膜的生长并增强其催化活性</p></li></ul></details><ul><li>电子利用率EUE：在氧化还原相中，正弦波交流刺激表现出较高的 EUE，表明其电活性生物膜具有很强的<code>电子释放和存储能力</code>。这种能力反映了生物膜的<code>伪电容特性</code>，代表动态控制的电子转移过程。因此，正弦波 AC 刺激的生物膜表现出<code>增强的电子转移能力</code>，从而实现更有效的 NB 还原和中间氧化。</li></ul><hr /><ul><li>多组学分析两种参数:参与 NB 还原、芳香族化合物氧化、氨氧化、硝酸盐/亚硝酸盐还原和电子转移的功能<code>微生物群</code>的富集，<code>酶基因表达</code>上调</li></ul><hr /><ul><li>循环伏安法分析：<br />1.包围的面积</li></ul><details><summary>例子</summary><p>循环伏安法 （CV） 曲线所包围的面积在不同生物电极上显著变化（图 D）。排名如下：正弦波交流生物电极 （45.63） >方波交流生物电极 （35.54） >直流生物电极 （27.04） >开路 （4.75）。这一趋势与观察到的 NB 降解活性一致 </p></details><p>2.不对称的氧化还原峰：<code>降解的不可逆性</code></p><details><summary>例子</summary><p>交流和直流生物电极的 CV 曲线（不包括开路）表现出明显的还原峰和氧化峰，具有明显的不对称性，表明生物电极界面处初级 NB 降解的不可逆性 </p></details><p>3.氧化还原峰位置：①<code>对应可能进行的反应</code>②位置越靠近0V，触发还原和氧化反应的<code>电位阈值</code>较低</p><details><summary>例子</summary><p>直流生物电极的还原峰出现在 –0.23 V，对应于 NB中硝基的还原 </p></details><p>4.峰值电流：峰值电流增加，<code>降解活性增强</code></p><details><summary>例子</summary><p>此外，在正弦波和方波交流生物电极中观察到 0.16 V 处明显的氧化峰，而在直流生物电极中观察到 0.39 V 处的较弱峰值。这些氧化峰归因于 AN 氧。与方波 AC 相比，正弦波 AC 的峰值电流高 1.73 倍。触发还原和氧化反应的电位阈值较低，反应电流显著增加，表明正弦波交流生物电极有效增强了微生物电催化降解 NB 的活性 </p></details><p>5.如何确定CV扫描起点？</p><details><summary>例子</summary><p>根据系统的开路电位 （OCP），CV 扫描的初始电位为 − 0.1 V。以 1 mV/s 的扫描速率记录循环伏安图，以确定生物膜和电极之间电子转移的主要模式 </p></details><hr /><ul><li>电化学阻抗谱 （EIS）分析<br />1.欧姆电阻（Rs）：较低的 Rs表明正弦波 AC 刺激的生物膜具有优异的<code>电子电导率</code></li></ul><details><summary>例子</summary><p>分析显示 Rs对于正弦波交流生物电极，为 0.39 Ω，低于方波交流和直流生物电极（图 D）。[这个]较低的 Rs表明正弦波 AC 刺激的生物膜具有优异的电子电导率[29]，这与增强的 NB 降解和更高的电流产生相对应 </p></details><p>2.电荷转移电阻R （CT）：反映了生物膜更好的<code>伪电容行为</code>和更高的底物<code>降解效率</code></p><details><summary>例子</summary><p>较低的 R电脑断层扫描 （CT）对于正弦波 AC 生物膜反映了改进的伪电容行为和更高的底物降解效率[30]</p></details><p>3.有限扩散电阻 （Rd）：表明在生物膜和生物电极上的<code>扩散</code>增强</p><details><summary>例子</summary><p>Rd对于正弦波 AC，为 0.23 Ω，低于方波 AC （0.53 Ω） 和直流生物电极 （2.12 Ω），表明在生物膜和生物电极上的扩散增强</p></details><p>4.EIS 的阻抗结果显示与生物电极产生的电流密度呈<code>负相关</code>，电流密度越大，阻抗<code>越小</code></p><details><summary>例子</summary><p>如补充图 1 所示。[3]，直流生物电极中的电流密度最终稳定在 −9.50 mA/cm2，低于正弦波交流 （39.80 mA/cm2） 和方波交流 （32.80 mA/cm2） 生物电极中的电流密度。因此，正弦波交流生物电极具有最小的阻抗和最大的电流密度，在 NB 降解方面表现出最佳性能（图 D）</p></details><hr /><ul><li>扫描电子显微镜（SEM）：微生物<code>密度和粘附性</code></li></ul><details><summary>例子</summary><p>正弦波交流生物电极表现出最佳的微生物富集</p></details><hr /><ul><li>共聚焦激光扫描显微镜 （CLSM）：</li></ul><p>1.生物膜厚度(μm):增加生物膜厚度将改善电极界面<code>微生态系统的功能和稳定性</code>，增强对物理和化学压力、营养物质稀缺和外部毒素的抵抗力<a href="https://link.springer.com/article/10.1038/s41545-025-00439-5#ref-CR28" title="Wang, B., Liu, W., Zhang, Y. &amp; Wang, A. Bioenergy recovery from wastewater accelerated by solar power: intermittent electro-driving regulation and capacitive storage in biomass. Water Res. 175, 115696 (2020).">28</a></p><p>2.活细菌和死细菌分布的差异:活细胞越多，<code>生物活性越强</code></p><details><summary>例子1</summary><p>电微生物组的活力受到所施加电流类型的显着影响，正弦波交流显示出最高的活性，这反映在正弦波交流生物电极上 65% 的活细胞比率上</p></details><details><summary>例子2</summary><p>[在]方波刺激下，在生物膜中观察到一层明显的死细胞，这可能是由微菌落内突然极性反转引起的累积损伤造成的[19]。这个坏死层破坏了电活性介质的分泌，损害了种间电子转移，并降低了生物膜的电导率，共同降低了生物膜的电活性[28]。EIS 结果显示，生物膜电活性降低与 R （CT）增加之间存在密切关联.相比之下，正弦波刺激没有诱导可比的死细胞层，表明生物膜生长和更新动力学得到改善。这些有利条件增强了生物膜的电化学性能，促进了更有效的 NB 降解。</p></details><hr /><ul><li>不用双室的原因<br /><strong>参考文献</strong>：<a href="https://www.sciencedirect.com/science/article/pii/S0048969720315667">2,4-二氯硝基苯在预驯化生物阳极单室微生物电解槽中快速降解：综合评估 - ScienceDirect</a></li></ul><details><summary>描述方法</summary><p>通常，离子交换膜 （IEM） 是 MEC 的重要组成部分，它将 MEC 分为阳极室和阴极室。带有 IEM 的 MEC 具有防止阴极室中的电子受体进入阳极室的优点。同时，IEM 保护阳极上的电活性微生物免受来自阴极室的电子受体（如氧气和有毒有机化合物）的冲击。此外，IEM 保证从衬底氧化中释放的电子可以转移到阳极，并防止电子受体与电极竞争电子。然而，IEM 通常价格昂贵且使用寿命有限，这是 MEC 商业应用的主要缺点。此外，IEM 的存在可能会增加 MEC 的内阻，并导致腔室中的 pH 梯度，从而不利于电子转移。最近，已经进行了一些研究来调查没有 IEM 的 MEC 在制氢和去除污染物方面的性能。结果表明，无 IEM MEC 在这些应用中的商业前景一片光明，非生物阴极对硝基苯的预解毒可以减少连续流条件下有毒废水对生物阳极的威胁。遗憾的是，很少有研究关注没有 IEM 的 MEC 对 DClNB 降解的性能增强，并且 DClNB 还原对阳极生物膜的机制仍不清楚。</p></details><hr /><ul><li>后文有详细介绍时，前文的写法<br />因此，电刺激有利于 4-NP 和 2,4-DNP 的好氧阳极室中特殊物种的富集和微生物代谢活性的改善（<a href="https://www.sciencedirect.com/science/article/pii/S096085242031645X#b0005">Ailijiang等人，2016a</a>），这将在后面<a href="https://www.sciencedirect.com/science/article/pii/S096085242031645X#s0065">的第 3.3.3 节</a>中说明。</li></ul>]]></content>
+        <content type="html"><![CDATA[<ul><li>生物电极的 NB 去除效率是开路的 1.77-1.83 倍，突出了<code>电刺激对微生物 NB 去除的显着增强</code></li></ul><hr /><ul><li>AC 刺激增强了生物膜的形成和双向电催化活性:<code>从而提高了生物量和电子的利用效率</code></li></ul><hr /><ul><li>电流越大，促进电活性生物膜的生长<details><summary>例子</summary><p>通常，在正弦波交流生物电极中观察到的较高电流可以促进电活性生物膜的生长并增强其催化活性</p></li></ul></details><ul><li>电子利用率EUE：在氧化还原相中，正弦波交流刺激表现出较高的 EUE，表明其电活性生物膜具有很强的<code>电子释放和存储能力</code>。这种能力反映了生物膜的<code>伪电容特性</code>，代表动态控制的电子转移过程。因此，正弦波 AC 刺激的生物膜表现出<code>增强的电子转移能力</code>，从而实现更有效的 NB 还原和中间氧化。</li></ul><hr /><ul><li>多组学分析两种参数:参与 NB 还原、芳香族化合物氧化、氨氧化、硝酸盐/亚硝酸盐还原和电子转移的功能<code>微生物群</code>的富集，<code>酶基因表达</code>上调</li></ul><hr /><ul><li>循环伏安法分析：<br />1.包围的面积</li></ul><details><summary>例子</summary><p>循环伏安法 （CV） 曲线所包围的面积在不同生物电极上显著变化（图 D）。排名如下：正弦波交流生物电极 （45.63） >方波交流生物电极 （35.54） >直流生物电极 （27.04） >开路 （4.75）。这一趋势与观察到的 NB 降解活性一致 </p></details><p>2.不对称的氧化还原峰：<code>降解的不可逆性</code></p><details><summary>例子</summary><p>交流和直流生物电极的 CV 曲线（不包括开路）表现出明显的还原峰和氧化峰，具有明显的不对称性，表明生物电极界面处初级 NB 降解的不可逆性 </p></details><p>3.氧化还原峰位置：①<code>对应可能进行的反应</code>②位置越靠近0V，触发还原和氧化反应的<code>电位阈值</code>较低</p><details><summary>例子</summary><p>直流生物电极的还原峰出现在 –0.23 V，对应于 NB中硝基的还原 </p></details><p>4.峰值电流：峰值电流增加，<code>降解活性增强</code></p><details><summary>例子</summary><p>此外，在正弦波和方波交流生物电极中观察到 0.16 V 处明显的氧化峰，而在直流生物电极中观察到 0.39 V 处的较弱峰值。这些氧化峰归因于 AN 氧。与方波 AC 相比，正弦波 AC 的峰值电流高 1.73 倍。触发还原和氧化反应的电位阈值较低，反应电流显著增加，表明正弦波交流生物电极有效增强了微生物电催化降解 NB 的活性 </p></details><p>5.如何确定CV扫描起点？</p><details><summary>例子</summary><p>根据系统的开路电位 （OCP），CV 扫描的初始电位为 − 0.1 V。以 1 mV/s 的扫描速率记录循环伏安图，以确定生物膜和电极之间电子转移的主要模式 </p></details><hr /><ul><li>电化学阻抗谱 （EIS）分析<br />1.欧姆电阻（Rs）：较低的 Rs表明正弦波 AC 刺激的生物膜具有优异的<code>电子电导率</code></li></ul><details><summary>例子</summary><p>分析显示 Rs对于正弦波交流生物电极，为 0.39 Ω，低于方波交流和直流生物电极（图 D）。[这个]较低的 Rs表明正弦波 AC 刺激的生物膜具有优异的电子电导率[29]，这与增强的 NB 降解和更高的电流产生相对应 </p></details><p>2.电荷转移电阻R （CT）：反映了生物膜更好的<code>伪电容行为</code>和更高的底物<code>降解效率</code></p><details><summary>例子</summary><p>较低的 R电脑断层扫描 （CT）对于正弦波 AC 生物膜反映了改进的伪电容行为和更高的底物降解效率[30]</p></details><p>3.有限扩散电阻 （Rd）：表明在生物膜和生物电极上的<code>扩散</code>增强</p><details><summary>例子</summary><p>Rd对于正弦波 AC，为 0.23 Ω，低于方波 AC （0.53 Ω） 和直流生物电极 （2.12 Ω），表明在生物膜和生物电极上的扩散增强</p></details><p>4.EIS 的阻抗结果显示与生物电极产生的电流密度呈<code>负相关</code>，电流密度越大，阻抗<code>越小</code></p><details><summary>例子</summary><p>如补充图 1 所示。[3]，直流生物电极中的电流密度最终稳定在 −9.50 mA/cm2，低于正弦波交流 （39.80 mA/cm2） 和方波交流 （32.80 mA/cm2） 生物电极中的电流密度。因此，正弦波交流生物电极具有最小的阻抗和最大的电流密度，在 NB 降解方面表现出最佳性能（图 D）</p></details><hr /><ul><li>扫描电子显微镜（SEM）：微生物<code>密度和粘附性</code></li></ul><details><summary>例子</summary><p>正弦波交流生物电极表现出最佳的微生物富集</p></details><hr /><ul><li>共聚焦激光扫描显微镜 （CLSM）：</li></ul><p>1.生物膜厚度(μm):增加生物膜厚度将改善电极界面<code>微生态系统的功能和稳定性</code>，增强对物理和化学压力、营养物质稀缺和外部毒素的抵抗力<a href="https://link.springer.com/article/10.1038/s41545-025-00439-5#ref-CR28" title="Wang, B., Liu, W., Zhang, Y. &amp; Wang, A. Bioenergy recovery from wastewater accelerated by solar power: intermittent electro-driving regulation and capacitive storage in biomass. Water Res. 175, 115696 (2020).">28</a></p><p>2.活细菌和死细菌分布的差异:活细胞越多，<code>生物活性越强</code></p><details><summary>例子1</summary><p>电微生物组的活力受到所施加电流类型的显着影响，正弦波交流显示出最高的活性，这反映在正弦波交流生物电极上 65% 的活细胞比率上</p></details><details><summary>例子2</summary><p>[在]方波刺激下，在生物膜中观察到一层明显的死细胞，这可能是由微菌落内突然极性反转引起的累积损伤造成的[19]。这个坏死层破坏了电活性介质的分泌，损害了种间电子转移，并降低了生物膜的电导率，共同降低了生物膜的电活性[28]。EIS 结果显示，生物膜电活性降低与 R （CT）增加之间存在密切关联.相比之下，正弦波刺激没有诱导可比的死细胞层，表明生物膜生长和更新动力学得到改善。这些有利条件增强了生物膜的电化学性能，促进了更有效的 NB 降解。</p></details><hr /><ul><li>不用双室的原因<br /><strong>参考文献</strong>：<a href="https://www.sciencedirect.com/science/article/pii/S0048969720315667">2,4-二氯硝基苯在预驯化生物阳极单室微生物电解槽中快速降解：综合评估 - ScienceDirect</a></li></ul><details><summary>描述方法</summary><p>通常，离子交换膜 （IEM） 是 MEC 的重要组成部分，它将 MEC 分为阳极室和阴极室。带有 IEM 的 MEC 具有防止阴极室中的电子受体进入阳极室的优点。同时，IEM 保护阳极上的电活性微生物免受来自阴极室的电子受体（如氧气和有毒有机化合物）的冲击。此外，IEM 保证从衬底氧化中释放的电子可以转移到阳极，并防止电子受体与电极竞争电子。然而，IEM 通常价格昂贵且使用寿命有限，这是 MEC 商业应用的主要缺点。此外，IEM 的存在可能会增加 MEC 的内阻，并导致腔室中的 pH 梯度，从而不利于电子转移。最近，已经进行了一些研究来调查没有 IEM 的 MEC 在制氢和去除污染物方面的性能。结果表明，无 IEM MEC 在这些应用中的商业前景一片光明，非生物阴极对硝基苯的预解毒可以减少连续流条件下有毒废水对生物阳极的威胁。遗憾的是，很少有研究关注没有 IEM 的 MEC 对 DClNB 降解的性能增强，并且 DClNB 还原对阳极生物膜的机制仍不清楚。</p></details><hr /><ul><li>后文有详细介绍时，前文的写法<br />因此，电刺激有利于 4-NP 和 2,4-DNP 的好氧阳极室中特殊物种的富集和微生物代谢活性的改善（<a href="https://www.sciencedirect.com/science/article/pii/S096085242031645X#b0005">Ailijiang等人，2016a</a>），这将在后面<a href="https://www.sciencedirect.com/science/article/pii/S096085242031645X#s0065">的第 3.3.3 节</a>中说明。</li></ul><hr /><p>循环伏安曲线电流越大，说明<mark>反应越强</mark>，可以测定不同cod浓度下的氧化反应电流大小</p><hr />]]></content>
       
       
       <categories>
